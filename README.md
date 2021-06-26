@@ -8,10 +8,21 @@
 
 [![Github Followers](https://img.shields.io/github/followers/fduartej?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/fduartej?tab=followers)
 
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Hi, I'm Fred Duarte, a passionate software engineer from Peru.
+
+- 🔭 I'm a Senior Software Engineer and Architect Lead
+- 👯 I’m running [@friendsofgo](https://github.com/friendsofgo) 
+- 🌱 I’m currently learning Go.
+- 📫 The best way to reach me is by sending me an email.
+- 💬 Ask me about anything [here](https://github.com/fduartej/fduartej/issues).
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 **GitHub Stats:**  
